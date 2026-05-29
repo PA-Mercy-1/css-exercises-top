@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.frstbttn, .scndbttn {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.frstbttn {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.scndbttn {
+    background-color: yellow;
+}
